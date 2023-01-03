@@ -4,7 +4,7 @@ Built with PHP 8, composer and Laravel 9. This is my own app about crypto, it is
 ## Installation
 
 ```bash
-https://github.com/BlowYourMind/Crypto.git
+clone this repo https://github.com/BlowYourMind/Crypto.git
 cd Crypto
 composer install
 ```
