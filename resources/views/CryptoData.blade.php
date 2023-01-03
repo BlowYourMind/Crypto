@@ -24,7 +24,9 @@
             <div class="mr-4">
                 <div class="bg-sky-500 hover:bg-sky-700 rounded-lg">
                     <div class="nav-link" aria-current="page">
+                        @if($balance != null)
                         <div class="text-sm text-white"> ${{$balance->balance}}</div>
+                        @endif
                     </div>
                 </div>
             </div>
